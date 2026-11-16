@@ -84,4 +84,4 @@ The application stores the following information:
 
 **Developed using Python Tkinter**
 
-*Academic Mini Project – Batch 11*
+*Academic Mini Project*
